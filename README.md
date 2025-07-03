@@ -1,10 +1,10 @@
 # EnderX
-A CoreXY, IDEX 3D Printer that uses an Ender-3 for base components. The EnderX is designed to be easily upgradeable from the cheapest version up to and advanced version that is enclosed with expensive hotends, mainboard, and motors.
+A CoreXY, dual nozzle that uses an Ender-3 for base components. The EnderX is designed to be easily upgradeable from the cheapest version up to and advanced version that is enclosed with expensive hotends, mainboard, and motors.
 
 ### Features
 - Creality Sprite SE Direct Drive Extruders
 - 235 x 235 mm build area
-- Dual Toolheads
+- Dual Nozzles
 - CoreXY Kinematics
 - Available upgrade path.
 - Uses Klipper Firmware
