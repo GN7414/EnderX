@@ -1,5 +1,5 @@
 # EnderX
-A CoreXY, dual nozzle that uses an Ender-3 for base components. The EnderX is designed to be easily upgradeable from the cheapest version up to and advanced version that is enclosed with expensive hotends, mainboard, and motors.
+A CoreXY, dual nozzle 3D printer that uses an Ender-3 for base components. The EnderX is designed to be easily upgradeable from the cheapest version up to and advanced version that is enclosed with expensive hotends, mainboard, and motors.
 
 ### Features
 - Creality Sprite SE Direct Drive Extruders
